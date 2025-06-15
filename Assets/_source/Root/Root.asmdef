@@ -1,0 +1,24 @@
+{
+    "name": "Root",
+    "rootNamespace": "GameRoot",
+    "references": [
+        "GUID:4307f53044263cf4b835bd812fc161a4",
+        "GUID:4d97091137d238046801ba54d4016807",
+        "GUID:18fa2acb7dae4fb4ba8cf2b8a8ddbdc8",
+        "GUID:a0bb75dc890823f40b8d6b4d1a971221",
+        "GUID:9b242881d75818641a13de4a66e44d69",
+        "GUID:4644add40f67fe04da68625dc6971e4f",
+        "GUID:40467d292293c8746b3bddb6658ac70f",
+        "GUID:9e00d821254ac51449eae0991ed57de6",
+        "GUID:45a4381ac3725884b84a4868e9fc7ed4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

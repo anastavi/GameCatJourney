@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Boot.unity
+    guid: 957deac6757942d458e502c93288a684
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9795ddb595a2941438700f85a2cceb99
+  - enabled: 1
+    path: Assets/Scenes/VillageScene.unity
+    guid: 561d39f6b8d72924fae23836a98730ef
+  - enabled: 1
+    path: Assets/Scenes/MeadowScene.unity
+    guid: 94712882bcc8846439f31da896e65b9e
+  - enabled: 1
+    path: Assets/Scenes/MountainScene.unity
+    guid: 1c555b84111661540871becd4e993339
+  - enabled: 1
+    path: Assets/Scenes/Fishing.unity
+    guid: 32611eeddce76a74cbc423c118c9b9ff
+  - enabled: 1
+    path: Assets/Scenes/FinalScene.unity
+    guid: 3ed86d4574dc9a74da74bfe6ba7a07b5
+  - enabled: 1
+    path: Assets/Scenes/Maze_1.unity
+    guid: aa75dd497ce9ea4498d6400e4f559edd
+  - enabled: 1
+    path: Assets/Scenes/Maze_2.unity
+    guid: 199bdd606bb133744af783a5c757ab6a
+  - enabled: 1
+    path: Assets/Scenes/Maze_3.unity
+    guid: 90614711a3dcacc4ea105a94dc8f9317
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: b24d105564e2d2547aab7ad460b82e91, type: 3}
+  m_UseUCBPForAssetBundles: 0
